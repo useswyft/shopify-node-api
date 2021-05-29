@@ -7,6 +7,10 @@ and adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
 
+## [1.4.0-swyft] - 2021-05-29
+### Added
+- Changed import of http to be compatible with our project [#1](https://github.com/useswyft/shopify-node-api/pull/1)
+
 ## [1.4.0] - 2021-05-21
 ### Added
 - Add support for registering Google Pub/Sub webhooks [#181](https://github.com/Shopify/shopify-node-api/pull/181)
